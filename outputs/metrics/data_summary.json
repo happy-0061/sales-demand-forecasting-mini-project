@@ -1,0 +1,12 @@
+{
+  "original_rows": 13089,
+  "missing_values_before": 0,
+  "cancelled_rows_removed": 0,
+  "invalid_rows_removed": 0,
+  "clean_rows": 13089,
+  "total_sales": 548324.51,
+  "total_quantity": 46796,
+  "unique_products": 6,
+  "unique_customers": 501,
+  "transactions": 13089
+}

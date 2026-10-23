@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+data/Online Retail.xlsx
+outputs/figures/*.png
+outputs/forecasts/*.csv
+outputs/metrics/*.csv
